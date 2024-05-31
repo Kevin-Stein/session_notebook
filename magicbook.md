@@ -1,7 +1,7 @@
 Here's a list of stuff:
 
-* herbs
-* water
+* no herbs
+* no water
 * a spellbok "CSS Basics"
 * Hexenkessel
 
